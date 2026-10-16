@@ -1,0 +1,293 @@
+{
+ "title": "LookOut800 Games",
+ "base": "https://charlesmtalbot.com/games-web/",
+ "generated": "2026-10-15",
+ "games": [
+  {
+   "id": "wingmates",
+   "name": "Wingmates",
+   "genre": "Space shooter",
+   "blurb": "Pixel side-scrolling shooter: take contracts, fly sorties, pay for repairs, refit the ship.",
+   "controls": "WASD / arrows to fly; fire is automatic",
+   "input": "keyboard",
+   "status": "playable",
+   "exported": true,
+   "built": true,
+   "version": "0.1.0+889fbb7-dirty",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/wingmates/",
+   "icon": {
+    "palette": {
+     "w": "#dfe6f2",
+     "b": "#4aa3ff",
+     "o": "#ff9a3c",
+     "r": "#e2504a"
+    },
+    "rows": [
+     "............",
+     "............",
+     "..ww........",
+     "..bww.......",
+     "...wwww.....",
+     "oo.wwwbbww..",
+     "ooowwwbbwwwr",
+     "oo.wwwwwww..",
+     "...wwww.....",
+     "..bww.......",
+     "..ww........",
+     "............"
+    ]
+   }
+  },
+  {
+   "id": "wreck-runner",
+   "name": "Wreck Runner",
+   "genre": "Maze chase",
+   "blurb": "Salvage runner in a derelict starship: strip scrap while the security drones hunt you.",
+   "controls": "Arrows / WASD to move; Esc pauses; gamepad d-pad or stick",
+   "input": "keyboard",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.1.0+acdfce5-dirty",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/wreck-runner/",
+   "icon": {
+    "palette": {
+     "r": "#ff5f7a",
+     "w": "#ffffff",
+     "b": "#2f3cff"
+    },
+    "rows": [
+     "............",
+     "....rrrr....",
+     "..rrrrrrrr..",
+     ".rrrrrrrrrr.",
+     ".rwwrrrrwwr.",
+     ".rwbrrrrwbr.",
+     ".rrrrrrrrrr.",
+     ".rrrrrrrrrr.",
+     ".rrrrrrrrrr.",
+     ".rrrrrrrrrr.",
+     ".r.rr..rr.r.",
+     "............"
+    ]
+   }
+  },
+  {
+   "id": "hardpoint",
+   "name": "Hardpoint",
+   "genre": "Third-person mech action",
+   "blurb": "Blast through a facility in a mech you build from parts; lock on and manage energy.",
+   "controls": "Gamepad first (triggers fire, A jumps); keyboard + mouse also",
+   "input": "gamepad",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.1.0+53042b5-dirty",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/hardpoint/",
+   "icon": {
+    "palette": {
+     "g": "#9aa1b8",
+     "d": "#555c72",
+     "c": "#5fe0f0",
+     "o": "#ff9a3c"
+    },
+    "rows": [
+     "............",
+     "...gggggg...",
+     "..gddddddg..",
+     "..gdccccdg..",
+     "..gggggggg..",
+     "oggggggggggo",
+     "ogg.gggg.ggo",
+     ".gg.gggg.gg.",
+     "....gddg....",
+     "...gg..gg...",
+     "...gg..gg...",
+     "..ggg..ggg.."
+    ]
+   }
+  },
+  {
+   "id": "lantern-hold",
+   "name": "Lantern Hold",
+   "genre": "Match-3 puzzle",
+   "blurb": "Sort the Lantern's cargo hold: swap tiles and chase combos in CALM, RUN or RUSH.",
+   "controls": "Drag a tile or tap-tap (touch); mouse or keyboard",
+   "input": "touch",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.1.0+25981f9-dirty",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/lantern-hold/",
+   "icon": {
+    "palette": {
+     "k": "#a0743c",
+     "y": "#f5c74f",
+     "o": "#ff9a3c",
+     "w": "#fff6d0"
+    },
+    "rows": [
+     ".....kk.....",
+     "....k..k....",
+     "...kkkkkk...",
+     "..kyyyyyyk..",
+     "..kyyooyyk..",
+     "..kyowwoyk..",
+     "..kyowwoyk..",
+     "..kyyooyyk..",
+     "..kyyyyyyk..",
+     "...kkkkkk...",
+     "....kkkk....",
+     "............"
+    ]
+   }
+  },
+  {
+   "id": "the-dig",
+   "name": "The Dig",
+   "genre": "Turn-based roguelike",
+   "blurb": "Permadeath descent through ten levels into a buried vault after a relic.",
+   "controls": "Keyboard, turn by turn",
+   "input": "keyboard",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.1.0+1fa8e8d",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/the-dig/",
+   "icon": {
+    "palette": {
+     "h": "#a0743c",
+     "s": "#c8d0e0",
+     "d": "#6b4a2b"
+    },
+    "rows": [
+     "....hhhh....",
+     "....h..h....",
+     ".....hh.....",
+     ".....hh.....",
+     ".....hh.....",
+     ".....hh.....",
+     "...ssssss...",
+     "...ssssss...",
+     "...ssssss...",
+     "....ssss....",
+     ".d...ss...d.",
+     "dddd....dddd"
+    ]
+   }
+  },
+  {
+   "id": "marigold-maintenance-club",
+   "name": "Marigold Maintenance Club",
+   "genre": "Side-scrolling platformer",
+   "blurb": "Four daycare kids repair the generation ship Marigold, from the Gardens to the Warden.",
+   "controls": "Keyboard or gamepad; touch also",
+   "input": "keyboard",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.0.0+4725d39",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/marigold-maintenance-club/",
+   "icon": {
+    "palette": {
+     "o": "#ff8a1f",
+     "y": "#ffc93c",
+     "b": "#7a4a1e",
+     "g": "#5cc46a"
+    },
+    "rows": [
+     "............",
+     "...o.o.o....",
+     "..ooyyyoo...",
+     ".oyyyyyyyo..",
+     ".oyybbbyyo..",
+     ".yyybbbyyy..",
+     ".oyybbbyyo..",
+     ".oyyyyyyyo..",
+     "..ooyyyoo...",
+     "...o.g.o....",
+     "..gg.g.gg...",
+     "....ggg....."
+    ]
+   }
+  },
+  {
+   "id": "cyber-party-battler",
+   "name": "Rain City Requiem",
+   "genre": "Party JRPG",
+   "blurb": "Noir cyberpunk party RPG: each character fights from a card deck; auto-battle for now.",
+   "controls": "Keyboard or mouse",
+   "input": "keyboard",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.0.0+5fb5ae2",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/cyber-party-battler/",
+   "icon": {
+    "palette": {
+     "m": "#ff4fd8",
+     "c": "#5fe0f0",
+     "w": "#ffffff",
+     "y": "#e8b63c"
+    },
+    "rows": [
+     "....ccccccc.",
+     "..mmmmmmm.c.",
+     "..m.....m.c.",
+     "..m..w..m.c.",
+     "..m..w..m.c.",
+     "..m..w..m.c.",
+     "..m.www.m.c.",
+     "..m..y..m.c.",
+     "..m.....m.c.",
+     "..m.....mcc.",
+     "..mmmmmmm...",
+     "............"
+    ]
+   }
+  },
+  {
+   "id": "diorama-3d",
+   "name": "Lightwell",
+   "genre": "Village farming sim",
+   "blurb": "Cosy 14th-century Picardy village: farm, befriend villagers, and ride out the seasons.",
+   "controls": "Mouse and keyboard; gamepad planned",
+   "input": "keyboard",
+   "status": "prototype",
+   "exported": true,
+   "built": true,
+   "version": "0.1.0+de361b2-dirty",
+   "built_date": "2026-10-15",
+   "url": "https://charlesmtalbot.com/games-web/diorama-3d/",
+   "icon": {
+    "palette": {
+     "l": "#ffe9a040",
+     "g": "#7ad66a",
+     "d": "#5a3e2b",
+     "b": "#3e2a1c"
+    },
+    "rows": [
+     "...llllll...",
+     "...llllll...",
+     "..llllllll..",
+     ".lggllllggl.",
+     ".lgggllgggl.",
+     ".llggggggll.",
+     ".llllggllll.",
+     "lllllgglllll",
+     "dddddddddddd",
+     "dbdddbddddbd",
+     "dddbdddddbdd",
+     "dddddddddddd"
+    ]
+   }
+  }
+ ]
+}
